@@ -3,7 +3,7 @@ Hang Man Game
 
 ## Description
 This project is my game I deployed while taking the Web Developer Bootcamp at UNC. I created a simple game of hangman, where you try and guess the random word
-![screenshot 1](assets/screenshot.png)
+![screenshot 1](hangman.png)
 
 
 
@@ -27,7 +27,7 @@ Then either open the html files in browser for inspection, or using your choice 
 
 ## Deploying the Scheduler
 ---
-From any web browser visit this site  https://jdalefoskey.github.io/homeworksix/ to begin using
+From any web browser visit this site  https://jdalefoskey.github.io/hangman/ to begin using
 
 ## Repository contents
 ---
